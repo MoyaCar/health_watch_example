@@ -1,0 +1,10 @@
+{
+    "timestamp": "2021-06-01T12:00:00",
+    "name": "John Doe",
+    "user_id": 45,
+    "heart_bpm": 120,
+    "respiration_rate": 20,
+    "body_temperature": 37.0,
+    "blood_oxygen": 98,
+    "blood_sugar": 5.0
+}
